@@ -2,19 +2,21 @@
   Created by IntelliJ IDEA.
   User: vikto_000
   Date: 27.01.2018
-  Time: 15:42
+  Time: 15:25
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <link rel="stylesheet" href="main.css">
-    <title>welcomeeeee</title>
+    <title>Hi</title>
 </head>
-<body>
-<h1> hell
+<body background-color: red>
+<h1>hg
 </h1>
 
-<a href="registration">ssilka </a>
+
+
+
 </body>
 </html>

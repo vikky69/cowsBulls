@@ -4,13 +4,13 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="seabattle" />
+          <element id="module-output" name="cowsBulls" />
         </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/seabattle/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="seabattle/web/Web" />
+      <element id="javaee-facet-resources" facet="cowsBulls/web/Web" />
     </root>
   </artifact>
 </component>
